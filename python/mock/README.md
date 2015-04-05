@@ -18,4 +18,6 @@ Sometimes it's impossible to unittest that part. Because the result keeps on cha
 In case of a continuous integration, these tests will be run periodically
 - tests will be run by Jenkins periodically
 
+Using python's `mock` functionality, we can change it's behaviour accordingly
 
+P.S. Feel free to express your thoughts on this
